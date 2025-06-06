@@ -214,6 +214,10 @@ plt.tight_layout()
 # EXIBE OS DOIS GRAFOS
 plt.show()
 
+
+
+# --------------- MÉTRICAS TOPOLÓGICAS ------------------
+
 # --------- FUNÇÃO 1 -  Identificar os Vértices
 
 def identificar_vertices(grafo):
