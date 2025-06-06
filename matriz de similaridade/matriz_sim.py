@@ -72,7 +72,8 @@ pos = nx.spring_layout(grafo, k=6.1)
 nx.draw(grafo, pos, with_labels=True)
 
 
-# -------------- Metricas 
+# --------------- MÉTRICAS TOPOLÓGICAS ------------------
+
 # --------- FUNÇÃO 1 -  Identificar os Vértices
 
 def identificar_vertices(grafo):
