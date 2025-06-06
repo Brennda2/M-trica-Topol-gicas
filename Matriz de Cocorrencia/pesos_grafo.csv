@@ -1,0 +1,80 @@
+DE,PARA,PESO
+HBO MAX,Netflix,11
+HBO MAX,Ciclismo,2
+HBO MAX,Atletismo,2
+HBO MAX,Futebol,11
+HBO MAX,Basquete,8
+HBO MAX,Musculação,2
+HBO MAX,Crunchyroll,1
+HBO MAX,Vôlei,2
+HBO MAX,Globo Play,1
+HBO MAX,Não gosto,2
+HBO MAX,Skate,1
+HBO MAX,Disney+,1
+HBO MAX,Natação,2
+HBO MAX,Amazon Prime Video,2
+Netflix,Ciclismo,2
+Netflix,Atletismo,4
+Netflix,Disney+,10
+Netflix,Futebol,32
+Netflix,Musculação,24
+Netflix,Basquete,13
+Netflix,Crunchyroll,12
+Netflix,Vôlei,16
+Netflix,Globo Play,2
+Netflix,Amazon Prime Video,20
+Netflix,Natação,5
+Netflix,Não gosto,10
+Netflix,Skate,2
+Ciclismo,Atletismo,1
+Ciclismo,Amazon Prime Video,1
+Ciclismo,Disney+,1
+Ciclismo,Musculação,1
+Ciclismo,Futebol,1
+Atletismo,Futebol,1
+Atletismo,Amazon Prime Video,1
+Atletismo,Musculação,2
+Atletismo,Crunchyroll,1
+Disney+,Futebol,5
+Disney+,Musculação,7
+Disney+,Amazon Prime Video,1
+Disney+,Basquete,3
+Disney+,Natação,3
+Disney+,Skate,1
+Disney+,Vôlei,3
+Disney+,Não gosto,3
+Disney+,Globo Play,1
+Futebol,Musculação,11
+Futebol,Basquete,8
+Futebol,Crunchyroll,7
+Futebol,Vôlei,11
+Futebol,Amazon Prime Video,13
+Futebol,Não gosto,1
+Futebol,Skate,1
+Musculação,Globo Play,2
+Musculação,Basquete,4
+Musculação,Amazon Prime Video,12
+Musculação,Vôlei,2
+Musculação,Crunchyroll,5
+Musculação,Skate,1
+Musculação,Não gosto,2
+Musculação,Natação,1
+Basquete,Globo Play,1
+Basquete,Amazon Prime Video,5
+Basquete,Crunchyroll,2
+Basquete,Vôlei,2
+Basquete,Natação,2
+Crunchyroll,Vôlei,9
+Crunchyroll,Skate,1
+Crunchyroll,Não gosto,4
+Crunchyroll,Amazon Prime Video,1
+Vôlei,Amazon Prime Video,7
+Vôlei,Natação,3
+Vôlei,Skate,1
+Globo Play,Não gosto,6
+Globo Play,Natação,1
+Globo Play,Amazon Prime Video,1
+Amazon Prime Video,Natação,3
+Amazon Prime Video,Não gosto,7
+Natação,Não gosto,1
+Não gosto,Não gosto,6
